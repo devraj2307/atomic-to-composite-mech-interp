@@ -1,0 +1,11 @@
+torch>=2.4.0
+transformers>=4.46.0
+datasets>=3.0.0
+accelerate
+trl
+transformer_lens>=2.1.0
+einops>=0.8.0
+jaxtyping
+wandb>=0.18.0
+tqdm>=4.66.0
+flash-attn>=2.6.3
